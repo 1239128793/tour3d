@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.0.2/15080
 // Filename: aeroflot.ggsk
-// Generated чт апр. 27 18:05:37 2017
+// Generated пн июня 26 18:46:35 2017
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
@@ -439,12 +439,12 @@ function pano2vrSkin(player,base) {
 		this._image_1.className='ggskin ggskin_image ';
 		this._image_1.ggType='image';
 		hs ='';
-		hs+='height : 58px;';
+		hs+='height : 61px;';
 		hs+='left : 0px;';
 		hs+='position : absolute;';
 		hs+='top : 0px;';
 		hs+='visibility : inherit;';
-		hs+='width : 349px;';
+		hs+='width : 350px;';
 		this._image_1.setAttribute('style',hs);
 		this._image_1.style[domTransform + 'Origin']='50% 50%';
 		me._image_1.ggIsActive=function() {
